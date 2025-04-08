@@ -13,6 +13,7 @@ import SpecialEvents from '../components/SpecialEvents';
 import LocationSection from '../components/LocationSection';
 import ContactForm from '../components/ContactForm';
 import Footer from '../components/Footer';
+import Button from '../components/Button';
 
 export default function HomePage() {
   return (
@@ -31,6 +32,7 @@ export default function HomePage() {
     <LocationSection />
     <ContactForm />
     <Footer />
+    <Button />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
