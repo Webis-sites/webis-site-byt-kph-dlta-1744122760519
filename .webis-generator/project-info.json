@@ -1,8 +1,36 @@
 {
   "projectName": "בית-קפה-דלתא-2818",
   "businessName": "בית קפה דלתא",
-  "created": "2025-04-08T14:33:38.671Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו בית קפה מוביל בתחום הקמעונאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-08T14:35:51.737Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-byt-kph-dlta-1744122760519",
+  "formData": {
+    "businessName": "בית קפה דלתא",
+    "businessType": "בית קפה",
+    "industry": "בידור",
+    "businessSize": "large",
+    "description": "אנחנו בית קפה מוביל בתחום הקמעונאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#4ECDC4",
+    "secondaryColor": "#ffffff",
+    "typographyStyle": "minimal",
+    "animationPreference": "extensive",
+    "headline": "בית קפה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": false,
+    "metaDescription": "בית קפה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "בית קפה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
