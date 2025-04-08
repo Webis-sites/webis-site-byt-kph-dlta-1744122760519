@@ -1,8 +1,11 @@
 {
-  "projectName": "בית-קפה-דלתא-2818",
-  "businessName": "בית קפה דלתא",
-  "created": "2025-04-08T14:33:38.671Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-08T14:35:21.366Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-byt-kph-dlta-1744122760519"
 }
