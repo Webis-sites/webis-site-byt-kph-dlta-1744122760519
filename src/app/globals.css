@@ -25,6 +25,11 @@
   --neumorphic-bg: #f0f0f3;
   --glass-bg: rgba(255, 255, 255, 0.15);
   --blur-amount: 8px;
+
+  --animation-speed: 0.5s;
+  --border-radius: 1rem;
+  --glass-opacity: 0.1;
+  --shadow-color: rgba(78, 205, 196, 0.2);
 }
 
 html {
