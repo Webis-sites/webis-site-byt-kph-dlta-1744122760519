@@ -19,7 +19,8 @@
     "framer-motion": "^10.12.16",
     "react-icons": "^4.10.1",
     "react-scroll": "^1.8.9",
-    "date-fns": "^2.30.0"
+    "date-fns": "^2.30.0",
+    "react-hook-form": "^7.45.1"
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
