@@ -1,11 +1,96 @@
 {
-  "timestamp": "2025-04-08T14:35:21.366Z",
+  "timestamp": "2025-04-08T14:38:16.930Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 14,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with RTL configuration, fonts, and metadata"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL Hebrew responsive navbar with logo, navigation links, and mobile menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section with animated headline, subheadline, and prominent CTA for a café"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "RTL Hebrew about section highlighting the café's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "RTL Hebrew services section showcasing the café's offerings"
+    },
+    {
+      "name": "MenuHighlights",
+      "type": "menu",
+      "status": "pending",
+      "description": "RTL Hebrew featured menu items showcase with images and descriptions"
+    },
+    {
+      "name": "AtmosphereGallery",
+      "type": "gallery",
+      "status": "pending",
+      "description": "RTL Hebrew visual gallery showcasing the café's ambiance and environment"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "RTL Hebrew testimonials carousel showcasing customer feedback"
+    },
+    {
+      "name": "SpecialEvents",
+      "type": "events",
+      "status": "pending",
+      "description": "RTL Hebrew special events and promotions section"
+    },
+    {
+      "name": "LocationSection",
+      "type": "location",
+      "status": "pending",
+      "description": "RTL Hebrew location section with map and contact information"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "RTL Hebrew contact form with required fields and submission handling"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL Hebrew footer with navigation, social links, and copyright information"
+    },
+    {
+      "name": "Button",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable RTL-aware button component with variants and animations"
+    },
+    {
+      "name": "SectionHeader",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable RTL section header component with animated underline"
+    }
+  ],
   "repoName": "webis-site-byt-kph-dlta-1744122760519"
 }
