@@ -14,6 +14,7 @@ import LocationSection from '../components/LocationSection';
 import ContactForm from '../components/ContactForm';
 import Footer from '../components/Footer';
 import Button from '../components/Button';
+import SectionHeader from '../components/SectionHeader';
 
 export default function HomePage() {
   return (
@@ -33,6 +34,7 @@ export default function HomePage() {
     <ContactForm />
     <Footer />
     <Button />
+    <SectionHeader />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
