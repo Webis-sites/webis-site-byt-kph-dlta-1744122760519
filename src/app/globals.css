@@ -8,6 +8,19 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #4ECDC4;
   --secondary-color: #ffffff;
+
+  --font-heebo: var(--font-heebo);
+  --font-inter: var(--font-inter);
+  --neumorphic-shadow-light: 5px 5px 10px rgba(163, 177, 198, 0.5), -5px -5px 10px rgba(255, 255, 255, 0.6);
+  --neumorphic-shadow-dark: inset 3px 3px 7px rgba(163, 177, 198, 0.6), inset -3px -3px 7px rgba(255, 255, 255, 0.8);
+  --glass-background: rgba(255, 255, 255, 0.15);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.2);
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+  --glass-blur: 10px;
+  --border-radius-sm: 0.5rem;
+  --border-radius-md: 1rem;
+  --border-radius-lg: 1.5rem;
+  --transition-speed: 0.3s;
 }
 
 html {
