@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-08T14:45:24.121Z",
+  "timestamp": "2025-04-08T14:46:04.565Z",
   "status": {
     "totalComponents": 14,
-    "completedComponents": 8,
+    "completedComponents": 9,
     "failedComponents": 0,
-    "progress": 57
+    "progress": 64
   },
   "components": [
     {
@@ -58,7 +58,7 @@
     {
       "name": "SpecialEvents",
       "type": "events",
-      "status": "pending",
+      "status": "completed",
       "description": "RTL Hebrew special events and promotions section"
     },
     {
