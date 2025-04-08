@@ -1,0 +1,6 @@
+# robots.txt for בית קפה דלתא
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://בית-קפה-דלתא.com/sitemap.xml
