@@ -46,6 +46,11 @@
   --glassmorphic-bg: rgba(255, 255, 255, 0.7);
   --glassmorphic-border: 1px solid rgba(255, 255, 255, 0.4);
   --glassmorphic-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+
+  --neumorphic-light: rgba(255, 255, 255, 0.8);
+  --animation-timing: 0.3s ease;
+  --neumorphic-card-shadow: 20px 20px 60px rgba(0, 0, 0, 0.05), -20px -20px 60px rgba(255, 255, 255, 0.8);
+  --neumorphic-button-hover-shadow: inset 3px 3px 6px var(--neumorphic-shadow), inset -3px -3px 6px var(--neumorphic-light);
 }
 
 html {
