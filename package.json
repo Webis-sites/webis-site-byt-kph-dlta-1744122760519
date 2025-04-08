@@ -18,7 +18,8 @@
     "autoprefixer": "^10.4.14",
     "framer-motion": "^10.12.16",
     "react-icons": "^4.10.1",
-    "react-scroll": "^1.8.9"
+    "react-scroll": "^1.8.9",
+    "date-fns": "^2.30.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
