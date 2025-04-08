@@ -51,6 +51,9 @@
   --animation-timing: 0.3s ease;
   --neumorphic-card-shadow: 20px 20px 60px rgba(0, 0, 0, 0.05), -20px -20px 60px rgba(255, 255, 255, 0.8);
   --neumorphic-button-hover-shadow: inset 3px 3px 6px var(--neumorphic-shadow), inset -3px -3px 6px var(--neumorphic-light);
+
+  --neumorphic-shadow-inset: inset 2px 2px 5px rgba(200, 200, 200, 0.5), inset -2px -2px 5px rgba(255, 255, 255, 0.8);
+  --transition-duration: 0.3s;
 }
 
 html {
